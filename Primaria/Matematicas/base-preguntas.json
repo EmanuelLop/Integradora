@@ -1,0 +1,111 @@
+[
+    {
+        "categoria":"Matematicas",
+        "pregunta":"En la fábrica de Don Toño hoy fabricaron 320 pantalones, si los guandan en cajas dende caben 50 ¿cuántas cajas llenaron?",
+        "respuesta":"6 cajas",
+        "incorrecta1":"5 cajas",
+        "incorrecta2":"20 cajas",
+        "incorrecta3":"8 cajas",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Matematicas",
+        "pregunta":"La despensa en casa de Ruy se surtió con 2 kg de frijol, 3/4 kg de garbanzo, 1/4 kg de lentejas y 300 gramos de habas. ¿Cuánto pesó en total estos granos?",
+        "respuesta":"3300 gramos",
+        "incorrecta1":"3 1/2 kg",
+        "incorrecta2":"2750 gramos",
+        "incorrecta3":"1 3/4 kg",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Matematicas",
+        "pregunta":"¿Cuántos segundos tiene 1 hora y 30 minutos?",
+        "respuesta":"5 400 segundos",
+        "incorrecta1":"9 900 segundos",
+        "incorrecta2":"5 230 segundos",
+        "incorrecta3":"10 300 segundos",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Matematicas",
+        "pregunta":"Si quieres medir la capacidad de un garrafón de agua ¿qué unidad debes usar?",
+        "respuesta":"Litros",
+        "incorrecta1":"Kilogramos",
+        "incorrecta2":"Gramos",
+        "incorrecta3":"Centímetros",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Matematicas",
+        "pregunta":"Para preparar un pastel se necesita por cada kilogramo (kg) de harina 0.250 kg de huevo. Si tengo 1 kg de huevo, ¿qué cantidad de harina necesitaré para preparar el pastel?",
+        "respuesta":"0.500 kg",
+        "incorrecta1":"2 kg",
+        "incorrecta2":"1 kg",
+        "incorrecta3":"4 kg",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Matematicas",
+        "pregunta":"¿Cuál es el área de cada uno de los triángulos que se forman dentro de un rectángulo que tiene un lado de 4 cm y otro de 6 cm?",
+        "respuesta":"12 cm²",
+        "incorrecta1":"24 cm²",
+        "incorrecta2":"6 cm²",
+        "incorrecta3":"10 cm²",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Matematicas",
+        "pregunta":"Nombre de la fracción decimal: 3/100",
+        "respuesta":"Tres centésimos",
+        "incorrecta1":"Tres milésimos",
+        "incorrecta2":"Tres décimos",
+        "incorrecta3":"Tres unidades",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Matematicas",
+        "pregunta":"Don Ernesto tiene un terreno en forma de triángulo con las siguientes medidas: Base de 30 m. y altura de 30 m. ¿Cuál será su área?",
+        "respuesta":"900 cm²",
+        "incorrecta1":"450 cm²",
+        "incorrecta2":"90 cm²",
+        "incorrecta3":"60 cm²",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Matematicas",
+        "pregunta":"Encuentra el número romano correcto para 1878.",
+        "respuesta":"MDCCCLXXVIII",
+        "incorrecta1":"MLCCCLXXIIIV",
+        "incorrecta2":"MCMVXXVIII",
+        "incorrecta3":"MCMMCCIV",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Matematicas",
+        "pregunta":"Si tengo 12 cajas de Bombones y cada una trae 54, ¿cuántos bombones tengo en total?",
+        "respuesta":"648 bombones",
+        "incorrecta1":"666 bombones",
+        "incorrecta2":"650 bombones",
+        "incorrecta3":"699 bombones",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+]

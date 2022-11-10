@@ -1,0 +1,111 @@
+[
+    {
+        "categoria":"Español",
+        "pregunta":"Son quienes participan en las narraciones y se distinguen unos de otros por sus características específicas.",
+        "respuesta":"Los personajes",
+        "incorrecta1":"Los Autores",
+        "incorrecta2":"Los narradores",
+        "incorrecta3":"Los Escritores",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Español",
+        "pregunta":"Es el personaje malo de la historia.",
+        "respuesta":"Oponente o Antagónico",
+        "incorrecta1":"Personajes secundarios",
+        "incorrecta2":"Aliado o Ser amado",
+        "incorrecta3":"Protagonista",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Español",
+        "pregunta":"Son aquellas fuentes que se elaboran en un tiempo posterior a la época que se investiga.",
+        "respuesta":"Fuente secundaria",
+        "incorrecta1":"Fuente primaria",
+        "incorrecta2":"Fuente de comunicación",
+        "incorrecta3":"Fuente indirecta",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Español",
+        "pregunta":"Se llama así a las personas que hablan español.",
+        "respuesta":"Hispanohablantes",
+        "incorrecta1":"Indígenas",
+        "incorrecta2":"Mexicanas",
+        "incorrecta3":"Españoles.",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Español",
+        "pregunta":"Vato, cuate, parce, amigo, huerco; son palabras ejemplo de:",
+        "respuesta":"Diversidad lingüística",
+        "incorrecta1":"Modismos",
+        "incorrecta2":"Ambigüedades",
+        "incorrecta3":"Dialecto",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Español",
+        "pregunta":"En una leyenda, es el que prepara al público para la historia, informa el tiempo y lugar en que los hechos sucedieron.",
+        "respuesta":"Planteamiento",
+        "incorrecta1":"Desenlace",
+        "incorrecta2":"Escena",
+        "incorrecta3":"Acto",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Español",
+        "pregunta":"Es la historia de la vida de una persona narrada por otra persona.",
+        "respuesta":"Biografía",
+        "incorrecta1":"Leyenda",
+        "incorrecta2":"Cuento",
+        "incorrecta3":"Autobiografía",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Español",
+        "pregunta":"______ es un evento de comunicación formal en el que varios participantes exponen por turnos, diferentes puntos de vista acerca de un mismo tema.",
+        "respuesta":"Mesa Redonda",
+        "incorrecta1":"Simposio",
+        "incorrecta2":"Debate",
+        "incorrecta3":"Forum",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Español",
+        "pregunta":"Conjunto de reglas dictados por una autoridad competente para la ejecución de una ley y así regular el comportamiento en un deporte.",
+        "respuesta":"Reglamento",
+        "incorrecta1":"Himnario",
+        "incorrecta2":"Antología",
+        "incorrecta3":"Leyes",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Español",
+        "pregunta":"Es un punto de vista en relación con un cierto tema o asunto, y debe de defenderla.",
+        "respuesta":"Postura",
+        "incorrecta1":"Argumento",
+        "incorrecta2":"Opinión",
+        "incorrecta3":"Idea",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+]

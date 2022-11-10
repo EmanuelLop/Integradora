@@ -1,0 +1,111 @@
+[
+    {
+        "categoria":"Matematicas",
+        "pregunta":"Un lapicero cuesta $ 3.50 pesos. ¿Cuánto costaran 17 lapiceros?",
+        "respuesta":"$ 59.5",
+        "incorrecta1":"$ 49.5",
+        "incorrecta2":"$ 595",
+        "incorrecta3":"$ 5.95",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Matematicas",
+        "pregunta":"¿La multiplicación de 0.004 x 100 es?",
+        "respuesta":"0.4",
+        "incorrecta1":"40",
+        "incorrecta2":"0.004",
+        "incorrecta3":"4",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Matematicas",
+        "pregunta":"¿Cuáles son las soluciones de las siguientes ecuaciones? 3x – y = 5; y = 7 – x",
+        "respuesta":"3,4",
+        "incorrecta1":"4,2",
+        "incorrecta2":"2,6",
+        "incorrecta3":"5,3",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Matematicas",
+        "pregunta":"¿Qué expresión algebraica representa la sucesión 3, 7, 11, 15...?",
+        "respuesta":"4n - 1",
+        "incorrecta1":"4n + 1",
+        "incorrecta2":"4(n - 1)",
+        "incorrecta3":"3n – 1",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Matematicas",
+        "pregunta":"¿Cuáles son los términos de la posición 3 y 4 de la sucesión 3n – 4?",
+        "respuesta":"5,8",
+        "incorrecta1":"11,14",
+        "incorrecta2":"9,12",
+        "incorrecta3":"12,15",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Matematicas",
+        "pregunta":"El resultado de la siguiente potencia es: 2² x 2³ = x",
+        "respuesta":"x = 32",
+        "incorrecta1":"x = 64",
+        "incorrecta2":"x = 16",
+        "incorrecta3":"x = 14",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Matematicas",
+        "pregunta":"Luis va a viajar a Praga, tiene 18,512 pesos. Necesita cambiar pesos por Euros. En la casa de cambio obtiene 890 euros. ¿Cuál es el valor del Euro? Sí al regresar de Praga tiene 3.5 euros ¿Cuántos pesos obtendrá por esa cantidad?",
+        "respuesta":"$20.8 y 72.8",
+        "incorrecta1":"$0.04 y $72.8",
+        "incorrecta2":"$20.8",
+        "incorrecta3":"$72.8",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Matematicas",
+        "pregunta":"Lorena ha cocinado una pizza en una charola circular, el recipiente tiene un diámetro de 52 cm. ¿Cuál será el área de la pizza?",
+        "respuesta":"2122.64 cm2",
+        "incorrecta1":"8494.88 cm2",
+        "incorrecta2":"81.6816 cm2",
+        "incorrecta3":"326.726 cm2",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Matematicas",
+        "pregunta":"Se construye un edificio con 10 obreros y se tardan 336 días, ¿Cuánto se tardaran en construirlo 30 obreros?",
+        "respuesta":"112",
+        "incorrecta1":"220",
+        "incorrecta2":"126",
+        "incorrecta3":"153",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Matematicas",
+        "pregunta":"Al Convertir 35 Hectolitros a litros el resultado es: (Sabemos que 1 lt es igual a 0.01 Hectolitros)",
+        "respuesta":"3500 l",
+        "incorrecta1":"350 l",
+        "incorrecta2":"35000 l",
+        "incorrecta3":"35 l",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+]

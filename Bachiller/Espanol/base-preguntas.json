@@ -1,0 +1,111 @@
+[
+    {
+        "categoria":"Español",
+        "pregunta":"Seleccione el inciso que indica las palabras que SÍ deben llevar tilde. Ellos caminan(1) un kilometro(2) diario y despues(3), para descansar, se sientan en el cesped(4) a escuchar a los pajaros(5) que se encuentran en los arboles(6).",
+        "respuesta":"2,3,4,5,6",
+        "incorrecta1":"2,3,4,6",
+        "incorrecta2":"1,2,4,6",
+        "incorrecta3":"3,4,5,6",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Español",
+        "pregunta":"Seleccione la(s) palabra(s) subrayadas que llevan tilde. No se(1) me ocurrió que el(2) domingo el(3) podía venir a ayudarnos.",
+        "respuesta":"3",
+        "incorrecta1":"2,3",
+        "incorrecta2":"1,2",
+        "incorrecta3":"2",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Español",
+        "pregunta":"Seleccione el inciso que agrupa a las palabras que se escriben con s. Éste es el vigé(1)imo canadien(2)e que ha(3)e un viaje(4)ito para vi(5)itar el instituto",
+        "respuesta":"1,2,5",
+        "incorrecta1":"1,2,3,4",
+        "incorrecta2":"1,3,5",
+        "incorrecta3":"2,4",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Español",
+        "pregunta":"Seleccione el inciso cuyo significado sea cercano a la palabra subrayada en el texto. La casa de mi abuelo es en verdad acogedora. El brillo de sus pisos de madera se interrumpe con el colorido y la textura de tapetes traídos de Persia. Las paredes son un mosaico de obras de arte en el que se entreteje la maestría de los pintores de siglos pasados y años recientes. acogedora ",
+        "respuesta":"confortable",
+        "incorrecta1":"calurasa",
+        "incorrecta2":"interesante",
+        "incorrecta3":"elegante",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Español",
+        "pregunta":"Selecciona el inciso de la palabra que NO tiene relación ni con la palabra subrayada ni con las otras opciones. ejerce",
+        "respuesta":"implica",
+        "incorrecta1":"realiza",
+        "incorrecta2":"practica",
+        "incorrecta3":"desempeña",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Español",
+        "pregunta":"Lee el siguiente texto: “Las palabras son los embriones de las ideas. Según qué palabras utilicemos así formaremos nuestro pensamiento”. “Embriones de las ideas” significa: ",
+        "respuesta":"El elemento que genera a las ideas",
+        "incorrecta1":"La manera en que crecen las ideas",
+        "incorrecta2":"Conexiones de las ideas",
+        "incorrecta3":"Ideas pequeñas",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Español",
+        "pregunta":"Seleccione el nexo que falta en el espacio en blanco. Con el Renacimiento se augura una nueva etapa en la Historia del Arte, no sólo en Italia, sino en Europa entera. aquel momento, el arte europeo ofrece una extraordinaria cohesión.",
+        "respuesta":"desde",
+        "incorrecta1":"hasta",
+        "incorrecta2":"para",
+        "incorrecta3":"en",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Español",
+        "pregunta":"Tipo de nexo(s)... (si estudias aprenderas.)(Te pago, siempre que termines en la hora acordada)",
+        "respuesta":"subordinantes concesivos",
+        "incorrecta1":"subordinantes causales",
+        "incorrecta2":"cordinantes copulativos",
+        "incorrecta3":"subordinantes comparativos",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Español",
+        "pregunta":"Que funcion es.. (Causa-efecto, comparacion contraste, secuencia, descriptivo, narrativo)",
+        "respuesta":"Desarrollo",
+        "incorrecta1":"Desarrollo/Conclusión",
+        "incorrecta2":"Conclusión",
+        "incorrecta3":"Introducción/Desarrollo",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Español",
+        "pregunta":"Señala la cuasa de lo que se afirma..",
+        "respuesta":"subordinante causal",
+        "incorrecta1":"subordinante concesivo",
+        "incorrecta2":"subordinante comparativo",
+        "incorrecta3":"cordinantes copulativos",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+]

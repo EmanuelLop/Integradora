@@ -1,0 +1,111 @@
+[
+    {
+        "categoria":"Matematicas",
+        "pregunta":"Figura geometrica formada por  2 rayos que tienen el mismo punto de origen",
+        "respuesta":"Angulo",
+        "incorrecta1":"Bisectriz",
+        "incorrecta2":"Mediatriz",
+        "incorrecta3":"Todas las anteriores",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Matematicas",
+        "pregunta":"Conceptos Geometricos No Definidos Que No Tienen Longuitud, Anchura O Espesor",
+        "respuesta":"punto, recta, plano",
+        "incorrecta1":"recta paralela",
+        "incorrecta2":"Segmento, linea, rayo",
+        "incorrecta3":"Ningun de las anteriores",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Matematicas",
+        "pregunta":"Parte de una recta que tiene principio, pero no tiene fin",
+        "respuesta":"raya o semirrecta",
+        "incorrecta1":"punto medio",
+        "incorrecta2":"punto colineales",
+        "incorrecta3":"Ningun de las anteriores",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Matematicas",
+        "pregunta":"Son las rectas que se cruzan entre si y forman angulos rectos",
+        "respuesta":"rectas perpendiculares",
+        "incorrecta1":"punto medio",
+        "incorrecta2":"recta paralela",
+        "incorrecta3":"semirrecta",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Matematicas",
+        "pregunta":"Punto donde se cortan las mediatrices de un triangulo",
+        "respuesta":"circucentro",
+        "incorrecta1":"bisectriz",
+        "incorrecta2":"mefiana",
+        "incorrecta3":"angulo",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Matematicas",
+        "pregunta":"Angulo OBTUSO",
+        "respuesta":"Mas de 90° y menos de 180°",
+        "incorrecta1":"360°",
+        "incorrecta2":"Menos 90°",
+        "incorrecta3":"80°",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Matematicas",
+        "pregunta":"Angulo CONCAVO, ENTRANTE",
+        "respuesta":"Mas de 180° y menos de 360°",
+        "incorrecta1":"360°",
+        "incorrecta2":"Menos 90°",
+        "incorrecta3":"Mas de 90° y menos de 180°",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Matematicas",
+        "pregunta":"Triangulo que tiene sus tres lados agudos",
+        "respuesta":"Acutangulo",
+        "incorrecta1":"Triangulo rectangulo",
+        "incorrecta2":"Obtusangulo",
+        "incorrecta3":"Triangulo equilatero",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Matematicas",
+        "pregunta":"Angulos complementarios",
+        "respuesta":"suman 90°",
+        "incorrecta1":"suman 360°",
+        "incorrecta2":"suman 180°",
+        "incorrecta3":"Todas las anteriores",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Matematicas",
+        "pregunta":"Punto donde se cortan las alturas de un triangulo",
+        "respuesta":"Baricentro",
+        "incorrecta1":"Ortocentro",
+        "incorrecta2":"Incentro",
+        "incorrecta3":"Centro",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+]

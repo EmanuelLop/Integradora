@@ -1,0 +1,109 @@
+[
+    {
+        "categoria": "Español",
+        "pregunta": "Signo ortográfico que se utiliza para enumerar objetos y sus características.",
+        "respuesta": "Coma",
+        "incorrecta1": "Punto final",
+        "incorrecta2": "Punto y coma",
+        "incorrecta3": "Punto y seguido",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria":"Español",
+        "pregunta":"¿Cómo se llama la enseñanza que aparece al final de una fábula?",
+        "respuesta":"Moraleja",
+        "incorrecta1":"Consejo",
+        "incorrecta2":"Ideal",
+        "incorrecta3":"Esperanza",
+        "imagen":"",
+        "objectFit":"cover"
+    },
+    {
+        "categoria":"Español",
+        "pregunta":"¿Cómo se les llama a las frases que indican el orden en que sucedieron los hechos?",
+        "respuesta":"Nexos temporales",
+        "incorrecta1":"Advervios de lugar",
+        "incorrecta2":"Advervios de tiempo",
+        "incorrecta3":"Advervios de modo",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Español",
+        "pregunta":"Selecciona la noticia que sea importante para la comunidad",
+        "respuesta":"Durante seis horas se suspenderá la energía eléctrica en la ciudad",
+        "incorrecta1":"Peligroso huracán en el océano Atlántico",
+        "incorrecta2":"PEMEX adquirió hoteles flotantes",
+        "incorrecta3":"Se aprobó la ley laboral en el Congreso de la Unión",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Español",
+        "pregunta":"¿Cómo se denomina a las historias fantásticas para explicar fenómenos naturales o sucesos de las comunidades?",
+        "respuesta":"Leyendas",
+        "incorrecta1":"Fábulas",
+        "incorrecta2":"Poemas",
+        "incorrecta3":"Ensayos",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Español",
+        "pregunta":"¿Qué función tiene los nexos en los textos expositivos?",
+        "respuesta":"Unir palabras o enunciados",
+        "incorrecta1":"Sustituir el nombre",
+        "incorrecta2":"Valorar o calificar algún objeto",
+        "incorrecta3":"Resaltar el sujeto en una oración",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Español",
+        "pregunta":"Elige la frase en sentido literal: ",
+        "respuesta":"El agua es clara y fresca",
+        "incorrecta1":"El mar con agua de perlas azules",
+        "incorrecta2":"El agua es de brillantes frescos",
+        "incorrecta3":"Tus cabellos cual serpientes vivas en el agua",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Español",
+        "pregunta":"Son los signos que acompañan a las preguntas",
+        "respuesta":"Signos de interrogación",
+        "incorrecta1":"Signos de admiración",
+        "incorrecta2":"Signo de exclamación",
+        "incorrecta3":"Acentos prosódicos",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Español",
+        "pregunta":"Selecciona la pregunta escrita correctamente",
+        "respuesta":"¿Por qué tienes dos trabajos?",
+        "incorrecta1":"¿Porqué te fuiste a vivir a otro lado?",
+        "incorrecta2":"¿Por que estuviste fuera tanto tiempo?",
+        "incorrecta3":"Porque estás en ese lugar",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+    ,
+    {
+        "categoria":"Español",
+        "pregunta":"¿Qué función tiene la descripción en un texto?",
+        "respuesta":"Decir las características más importantes de un personaje, lugar u objeto",
+        "incorrecta1":"Mostrar la trama del texto",
+        "incorrecta2":"Hacer propuestas de mejora en el texto",
+        "incorrecta3":"Contribuir a la revisión de la ortografía",
+        "imagen":"",
+        "objectFit":"cover"
+    }
+]
